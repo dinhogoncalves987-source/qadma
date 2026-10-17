@@ -61,7 +61,7 @@ function certificateStatement(certificate: CertificateView) {
     case "apresentacao_crianca":
       return "foi apresentado(a) ao Senhor perante esta comunidade cristã, recebendo as orações e bênçãos da igreja.";
     case "batismo_aguas":
-      return "foi batizado(a) nas águas, por profissão pública de fé em Jesus Cristo, conforme a doutrina e a prática desta igreja.";
+      return "foi batizado(a) nas águas, por confissão pública de fé em Jesus Cristo, conforme a doutrina e a prática desta igreja.";
     case "casamento":
       return "celebraram sua união matrimonial perante Deus e as testemunhas reunidas nesta comunidade cristã.";
     case "ministerial":
